@@ -1,0 +1,3 @@
+type:command
+command:touch /root/bigdate/demo/demo_taxt
+dependencies:job1
